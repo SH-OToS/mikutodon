@@ -2,6 +2,8 @@
 mikutterでmastodonできるプラグイン
 # これなに
 mikutterでMastodonやれるやつ
+# sora0920/mikutodonとの違い
+3.5に対応するか否か
 # インストール方法
 1. これを叩く
 ```
